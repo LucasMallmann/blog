@@ -1,0 +1,653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post_dict\tstatement"
+			],
+			[
+				"po",
+				"post_dict\tstatement"
+			],
+			[
+				"flask",
+				"flaskblog\tmodule"
+			],
+			[
+				"login",
+				"login_required\tfunction"
+			],
+			[
+				"url_",
+				"url_for"
+			],
+			[
+				"create",
+				"create_post"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"Post",
+				"PostForm\tclass"
+			],
+			[
+				"Text",
+				"TextAreaField\tclass"
+			],
+			[
+				"picu",
+				"picture_file\tstatement"
+			],
+			[
+				"picut",
+				"picture\tstatement"
+			],
+			[
+				"save",
+				"save_picture\tfunction"
+			],
+			[
+				"pc",
+				"picture_path\tstatement"
+			],
+			[
+				"spli",
+				"splitext\tfunction"
+			],
+			[
+				"for",
+				"form_picutre\tparam"
+			],
+			[
+				"File",
+				"FileAllowed\tclass"
+			],
+			[
+				"Filed",
+				"FileField\tclass"
+			],
+			[
+				"user",
+				"username\tstatement"
+			],
+			[
+				"valida",
+				"validate_on_submit\tfunction"
+			],
+			[
+				"Login",
+				"login_required\tfunction"
+			],
+			[
+				"next",
+				"next_page\tstatement"
+			],
+			[
+				"nex",
+				"next_page"
+			],
+			[
+				"logou",
+				"logout_user\tfunction"
+			],
+			[
+				"co",
+				"configure\tfunction"
+			],
+			[
+				"grou",
+				"total_groups"
+			],
+			[
+				"group_",
+				"group_number"
+			],
+			[
+				"group",
+				"group_count"
+			],
+			[
+				"rand",
+				"rand_idx"
+			],
+			[
+				"rand_",
+				"rand_idx"
+			],
+			[
+				"in",
+				"individual"
+			],
+			[
+				"cout",
+				"count_g"
+			],
+			[
+				"list",
+				"list_to_change"
+			],
+			[
+				"c",
+				"curr"
+			],
+			[
+				"lis",
+				"list_to_change"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"cont",
+				"count_g"
+			],
+			[
+				"rando",
+				"random_number"
+			],
+			[
+				"ran",
+				"rand_number"
+			],
+			[
+				"p",
+				"people_by_group"
+			],
+			[
+				"coun",
+				"count_g"
+			],
+			[
+				"zip",
+				"zipped"
+			],
+			[
+				"z",
+				"zipped"
+			],
+			[
+				"enco",
+				"encoded"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"sat",
+				"staticfiles_urlpatterns"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"write",
+				"write_df_to_json"
+			],
+			[
+				"cone",
+				"connection"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"pop",
+				"populacao"
+			],
+			[
+				"grid-co",
+				"grid-column-end"
+			],
+			[
+				"grid-c",
+				"grid-column-start"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"gridco",
+				"grid-column-end"
+			],
+			[
+				"grid-colu",
+				"grid-column-start"
+			],
+			[
+				"gridtemplate",
+				"grid-template-rows"
+			],
+			[
+				"col",
+				"col_list"
+			],
+			[
+				"avali",
+				"avaliar_populacao"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"ml",
+				"melhor_media"
+			],
+			[
+				"df",
+				"df_atual"
+			],
+			[
+				"mel",
+				"melhorou"
+			],
+			[
+				"varia",
+				"variacao_media"
+			],
+			[
+				"melho",
+				"melhor_media"
+			],
+			[
+				"borders",
+				"border-style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"vi",
+				"vila_paulo_romeu"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"alfa",
+				"alfabeto_dic"
+			],
+			[
+				"af",
+				"alfabeto_dic"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/routes.py",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/post.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/home.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/create_post.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/models.py",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/test.py",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/posts.json",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/__init__.py",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/account.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/register.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/header.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/forms.py",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/musics.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/static/default.jpg",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/layout.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/login.html",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/blog.sublime-project",
+		"/home/mallmann/Downloads/umprojeto.sublime-project",
+		"/home/mallmann/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/run.py",
+		"/home/mallmann/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/mallmann/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/mallmann/Downloads/pygrib.sublime-project",
+		"/home/mallmann/Documentos/coding/Genetic Algorithms/Teste-Python/teste.py",
+		"/home/mallmann/Documentos/coding/Genetic Algorithms/Teste-Python/ag.sublime-project",
+		"/home/mallmann/Documentos/coding/Genetic Algorithms/Teste-Python/dna.py",
+		"/home/mallmann/Documentos/coding/Genetic Algorithms/Teste-Python/population.py",
+		"/home/mallmann/Documentos/coding/Genetic Algorithms/Teste-Python/main.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/algoritmo_genetico/dna.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/algoritmo_genetico/population.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/algoritmo_genetico/encode.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/algoritmo_genetico/bairro.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/algoritmo_genetico/main.py",
+		"/home/mallmann/Documentos/coding/React/lists-conditionals--lists-finished/src/Components/Persons/Persons.jsx",
+		"/home/mallmann/Documentos/coding/teste.js",
+		"/home/mallmann/Documentos/Faculdade/5 - Semestre/ES/JavaFX-MVC-Incompleto/src/javafxmvc/model/dao/ClienteDAO.java",
+		"/home/mallmann/Documentos/Python/django/chartjs/grafico/urls.py",
+		"/home/mallmann/Documentos/Python/django/chartjs/static/grafico/css/app.css",
+		"/home/mallmann/Documentos/Python/django/chartjs/chartjs/assets/app.css",
+		"/home/mallmann/Documentos/Python/django/chartjs/grafico/views.py",
+		"/home/mallmann/Documentos/Python/django/chartjs/grafico/static/css/app.css",
+		"/home/mallmann/Documentos/Python/django/chartjs/grafico/templates/grafico/index.html",
+		"/home/mallmann/Documentos/Python/django/chartjs/chartjs/urls.py",
+		"/home/mallmann/Documentos/Python/django/chartjs/chartjs/settings.py",
+		"/home/mallmann/Documentos/Python/django/chartjs/templates/grafico/index.html",
+		"/home/mallmann/Documentos/Python/django/chartjs/chartjs/views.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src-django/templates/base/js.html",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src-django/templates/base/bootstrap_defaults.html",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src-django/templates/base/css.html",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/tempera_simulada/tempera_simulada.json",
+		"/home/mallmann/Documentos/Design/Grid/grid.css",
+		"/home/mallmann/Documentos/Design/Grid/index.html",
+		"/home/mallmann/Documentos/Design/Grid/grid.sass",
+		"/home/mallmann/nodejs/node-mysql/app.js",
+		"/home/mallmann/Documentos/exemplo.py",
+		"/home/mallmann/Design/Udemy-Course/Seção 14 - CSS Grid/grid-01-using-the-grid-on-our-projectstarting-code/main.css",
+		"/home/mallmann/Design/Udemy-Course/Seção 14 - CSS Grid/grid-01-using-the-grid-on-our-projectstarting-code/index2.html",
+		"/home/mallmann/Design/Udemy-Course/Seção 14 - CSS Grid/grid-01-using-the-grid-on-our-projectstarting-code/main2.css",
+		"/home/mallmann/Design/Udemy-Course/Seção 14 - CSS Grid/grid-01-using-the-grid-on-our-projectstarting-code/style.sass",
+		"/home/mallmann/Design/Udemy-Course/Seção 14 - CSS Grid/grid-01-using-the-grid-on-our-projectstarting-code/index.html",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/tempera_simulada.py",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/src/tempera_simulada/tempera_simulada.py",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/start-hosting/start-hosting.css",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/start-hosting/index.html",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/index.html",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/index.jade",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/shared.css",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/main.css",
+		"/home/mallmann/Design/Udemy-Course/Seção 13 - Flexbox/shared.js",
+		"/home/mallmann/Documentos/Python/Linear-Programming/morich/README.md",
+		"/home/mallmann/Documentos/JavaScript-Tutorials/Asynchronous JavaScript/index.html",
+		"/home/mallmann/Documentos/JavaScript-Tutorials/Asynchronous JavaScript/style.css",
+		"/home/mallmann/Documentos/Python/PL/teste/teste2.py",
+		"/home/mallmann/Área de Trabalho/data.txt",
+		"/home/mallmann/Área de Trabalho/teste.py",
+		"/home/mallmann/Área de Trabalho/teste2.py",
+		"/home/mallmann/Documentos/JavaScript-Tutorials/Asynchronous JavaScript/data/tweets.json",
+		"/home/mallmann/Documentos/JavaScript-Tutorials/Asynchronous JavaScript/callback.js",
+		"/home/mallmann/Área de Trabalho/callback-netninja.js",
+		"/home/mallmann/Documentos/Python/teste/ctl/GPOSNMC20170906122017090618P.fct.TQ0666L064.ctl",
+		"/home/mallmann/Documentos/Python/teste/ctl/split_no_ctl_original.txt",
+		"/home/mallmann/nodejs/NodeJs-API/api/routes/products.js",
+		"/home/mallmann/Downloads/rest-api/package.json",
+		"/home/mallmann/Downloads/rest-api/service.js",
+		"/home/mallmann/Downloads/rest-api/api/models/messageModel.js",
+		"/home/mallmann/Downloads/rest-api/api/routes/messageRoutes.js",
+		"/home/mallmann/Downloads/rest-api/api/controllers/messageController.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"exampleModal",
+			"password",
+			"email",
+			"resized_image",
+			"form_picutre",
+			"login_user",
+			"login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 358.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"model",
+				"flaskblog/models.py"
+			],
+			[
+				"ini",
+				"flaskblog/__init__.py"
+			],
+			[
+				"roue",
+				"flaskblog/routes.py"
+			],
+			[
+				"crea",
+				"flaskblog/templates/create_post.html"
+			],
+			[
+				"header",
+				"flaskblog/templates/header.html"
+			],
+			[
+				"rou",
+				"flaskblog/routes.py"
+			],
+			[
+				"init",
+				"flaskblog/__init__.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
