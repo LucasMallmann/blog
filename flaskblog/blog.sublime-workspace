@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"user\tstatement"
+			],
+			[
 				"post",
 				"post_dict\tstatement"
 			],
@@ -70,10 +74,6 @@
 			[
 				"Filed",
 				"FileField\tclass"
-			],
-			[
-				"user",
-				"username\tstatement"
 			],
 			[
 				"valida",
@@ -295,6 +295,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "routes.py",
+			"settings":
+			{
+				"buffer_size": 5803,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -400,9 +418,13 @@
 	},
 	"expanded_folders":
 	[
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog",
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates"
 	],
 	"file_history":
 	[
+		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/user_posts.html",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/routes.py",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/post.html",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/home.html",
@@ -531,8 +553,78 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "routes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5774,
+								5774
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								1185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -589,6 +681,14 @@
 		"selected_items":
 		[
 			[
+				"home",
+				"flaskblog/templates/home.html"
+			],
+			[
+				"rou",
+				"flaskblog/routes.py"
+			],
+			[
 				"model",
 				"flaskblog/models.py"
 			],
@@ -607,10 +707,6 @@
 			[
 				"header",
 				"flaskblog/templates/header.html"
-			],
-			[
-				"rou",
-				"flaskblog/routes.py"
 			],
 			[
 				"init",
